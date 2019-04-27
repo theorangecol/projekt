@@ -1,0 +1,20 @@
+.topnav {
+
+    display: flex;
+    
+    justify-content: flex-end;
+    
+
+   
+
+    width: 97.5%;
+    margin: auto;
+    max-width: 1200px;
+    -ms-align-items: center;
+    align-items: center;
+    letter-spacing: 0.5px;
+
+
+
+
+}
